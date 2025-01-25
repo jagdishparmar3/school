@@ -1,4 +1,4 @@
 # school
-its my first repositor-
+This is My first git Repositories-
 <br>
-author :- jagdish parmar 
+Author - Jagdish Kumar 
